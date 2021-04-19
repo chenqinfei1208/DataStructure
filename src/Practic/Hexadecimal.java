@@ -5,6 +5,7 @@ public class Hexadecimal {
             // TODO Auto-generated method stub
             Scanner in=new Scanner(System.in);
             while(in.hasNext()){
+                //subString字符串截取
                 String firstnum=in.next().substring(2);//
                 //System.out.println(firstnum);
                 //valueOf数值类型转换
